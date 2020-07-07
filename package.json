@@ -8,6 +8,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "nodemon": "^2.0.4",
+    "rastrojs": "^1.1.0",
     "tracking-correios": "^1.2.2"
   },
   "devDependencies": {},
