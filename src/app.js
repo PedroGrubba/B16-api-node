@@ -13,6 +13,6 @@ app.use(routes);
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
-app.listen(3333, () => { 
-    console.log(" > Server is runnig in: ", 3333);
+app.listen(3000, () => { 
+    console.log(" > Server is runnig in: ", 3000);
 });
